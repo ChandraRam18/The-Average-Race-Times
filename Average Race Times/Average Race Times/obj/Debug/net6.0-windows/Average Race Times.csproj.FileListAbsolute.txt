@@ -1,0 +1,17 @@
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\bin\Debug\net6.0-windows\Average Race Times.exe
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\bin\Debug\net6.0-windows\Average Race Times.deps.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\bin\Debug\net6.0-windows\Average Race Times.runtimeconfig.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\bin\Debug\net6.0-windows\Average Race Times.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\bin\Debug\net6.0-windows\Average Race Times.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.csproj.AssemblyReference.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average_Race_Times.Form1.resources
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.csproj.GenerateResource.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.AssemblyInfoInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.AssemblyInfo.cs
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.csproj.CoreCompileInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\refint\Average Race Times.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\Average Race Times.genruntimeconfig.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Average Race Times\Average Race Times\obj\Debug\net6.0-windows\ref\Average Race Times.dll
